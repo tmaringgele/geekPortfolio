@@ -5,6 +5,9 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Tobias Maringgele | Portfolio</title>
+  <link rel="icon" href="favicon.png" type="image/png">
+
+
   <style>
     /* --- Terminal Aesthetic --- */
     @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&display=swap');
