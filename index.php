@@ -129,7 +129,7 @@ function type() {
     idx++;
     setTimeout(type, 35);
   } else {
-    span.innerHTML = lines[line]; // vollständige Zeile mit HTML-Links
+    span.innerHTML = lines[line] === '' ? '&nbsp;' : lines[line]; //Make sure empty lines are visible
     line++;
     idx = 0;
     currentLine = '';
