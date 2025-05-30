@@ -76,6 +76,38 @@
         color: var(--accent);
         }
 
+    /* --- Mobile Optimization --- */
+    @media (max-width: 600px) {
+      body {
+        padding: 0.5rem;
+        font-size: 0.95rem;
+        align-items: flex-start;
+        height: auto;
+      }
+      .terminal {
+        max-width: 100vw;
+        width: 100vw;
+        min-width: 0;
+        padding: 0.5rem;
+        font-size: 0.95rem;
+        border-radius: 0;
+        box-shadow: none;
+        overflow-x: auto;
+      }
+      .title-bar {
+        gap: 4px;
+        margin-bottom: 0.5rem;
+      }
+      .dot {
+        width: 8px;
+        height: 8px;
+      }
+      pre {
+        font-size: 0.95rem;
+        white-space: pre-wrap;
+        word-break: break-word;
+      }
+    }
   </style>
 </head>
 <body>
