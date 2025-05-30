@@ -1,4 +1,3 @@
-<?php /* index.php – geeky terminal-style portfolio */ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -175,10 +174,6 @@ function type() {
 window.onload = type;
 </script>
 
-
-
-
-<?php /* --- Dynamic PDF list injected via JS --- */ ?>
 
 </body>
 </html>
