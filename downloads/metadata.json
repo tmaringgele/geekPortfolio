@@ -1,5 +1,7 @@
 {
   "Essay_CanComputersThink.pdf": { "year": 2024, "desc": "Essay: Can Computers Think? - A Causal Perspective" },
-  "Essay_CloudComputing.pdf": { "year": 2024, "desc": "Essay: When Should We Move To The Cloud?" }
+  "Essay_CloudComputing.pdf": { "year": 2024, "desc": "Essay: When Should We Move To The Cloud?" },
+  "Thesis_BoundingCausalEffects.pdf": { "year": 2025, "desc": "Thesis: Bounding Causal Effects and Counterfactuals" }
+
 
 }
